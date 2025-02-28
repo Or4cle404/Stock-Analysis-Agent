@@ -77,6 +77,10 @@ python stock_analysis.py
 ## 5. Result:
 ![image](https://github.com/user-attachments/assets/8ef2f528-2141-4a33-9784-894fa47787e8)
 ![image](https://github.com/user-attachments/assets/3180eab9-6991-4e01-acc0-b3c473bdd00b)
+![image](https://github.com/user-attachments/assets/95dfbc49-6a2d-4ff1-80d0-c967b35ff0f5)
+![image](https://github.com/user-attachments/assets/7ba3a2ea-c268-4b5e-b3b9-42edcb75dce2)
+![image](https://github.com/user-attachments/assets/a7111a78-8665-4e96-8249-05768beb0075)
+![image](https://github.com/user-attachments/assets/7e4182a6-32f9-4dfd-95a3-fd36b5efc1b4)
 
 ---
 
