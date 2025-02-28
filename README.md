@@ -55,7 +55,13 @@ cd Stock-Analysis-Agent
 ```sh
 pip install -r requirements.txt
 ```
+### 3. Set Up Environment Variables
+```sh
+touch .env
+PHI_API_KEY = "API_KEY"
+GROQ_API_KEY = "API_KEY"
+```
 
-**Name:** Ayushi Anand
-**Email:** aanandayushi04@gmail.com  
-**GitHub:** https://github.com/Or4cle404
+- **Name:** Ayushi Anand
+- **Email:** aanandayushi04@gmail.com  
+- **GitHub:** https://github.com/Or4cle404
