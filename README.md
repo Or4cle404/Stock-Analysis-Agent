@@ -51,7 +51,11 @@ This tool is useful for **investors, traders, and financial analysts** who want 
 git clone https://github.com/Or4cle404/Stock-Analysis-Agent.git
 cd Stock-Analysis-Agent
 ```
+### 2. Install Dependencies
+```sh
+pip install -r requirements.txt
+```
 
-**Name:** Ayushi Anand 
+**Name:** Ayushi Anand
 **Email:** aanandayushi04@gmail.com  
 **GitHub:** https://github.com/Or4cle404
