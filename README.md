@@ -66,7 +66,7 @@ GROQ_API_KEY = "API_KEY"
 ```
 ---
 
-## Run the Project
+## 4. Run the Project
 
 ```sh
 python stock_analysis.py
@@ -74,7 +74,7 @@ python stock_analysis.py
 <sub>When prompted, enter a stock ticker symbol.</sub>
 ---
 
-## Result:
+## 5. Result:
 ![image](https://github.com/user-attachments/assets/8ef2f528-2141-4a33-9784-894fa47787e8)
 ![image](https://github.com/user-attachments/assets/3180eab9-6991-4e01-acc0-b3c473bdd00b)
 
