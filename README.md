@@ -57,9 +57,14 @@ pip install -r requirements.txt
 ```
 ### 3. Set Up Environment Variables
 
-### Create a .env file and add these keys in it.
-### PHI_API_KEY = "API_KEY"
-### GROQ_API_KEY = "API_KEY"
+### 3. Set Up Environment Variables
+
+<sub>Create a `.env` file and add these keys in it.</sub>
+
+```ini
+PHI_API_KEY = "API_KEY"
+GROQ_API_KEY = "API_KEY"
+```
 ---
 
 - **Name:** Ayushi Anand
