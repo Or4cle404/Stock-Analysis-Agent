@@ -65,7 +65,12 @@ PHI_API_KEY = "API_KEY"
 GROQ_API_KEY = "API_KEY"
 ```
 ---
+## Expected Result:
+![image](https://github.com/user-attachments/assets/8ef2f528-2141-4a33-9784-894fa47787e8)
+![image](https://github.com/user-attachments/assets/3180eab9-6991-4e01-acc0-b3c473bdd00b)
 
+---
+---
 - **Name:** Ayushi Anand
 - **Email:** aanandayushi04@gmail.com  
 - **GitHub:** https://github.com/Or4cle404
