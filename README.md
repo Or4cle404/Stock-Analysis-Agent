@@ -55,7 +55,6 @@ cd Stock-Analysis-Agent
 ```sh
 pip install -r requirements.txt
 ```
-### 3. Set Up Environment Variables
 
 ### 3. Set Up Environment Variables
 
