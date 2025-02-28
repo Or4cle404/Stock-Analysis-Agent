@@ -71,7 +71,7 @@ GROQ_API_KEY = "API_KEY"
 ```sh
 python stock_analysis.py
 ```
-When prompted, enter a stock ticker symbol.
+<sub>When prompted, enter a stock ticker symbol.</sub>
 ---
 
 ## Result:
